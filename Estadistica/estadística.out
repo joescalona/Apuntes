@@ -1,0 +1,77 @@
+\BOOKMARK [0][-]{chapter*.2}{Introducci\363n}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{Tipos de datos}{}% 2
+\BOOKMARK [1][-]{section*.4}{Variables cualitativas}{chapter*.3}% 3
+\BOOKMARK [1][-]{section*.4}{Variables cuntitativas}{chapter*.3}% 4
+\BOOKMARK [0][-]{chapter*.5}{Algunas definiciones}{}% 5
+\BOOKMARK [1][-]{section*.6}{Poblaci\363n}{chapter*.5}% 6
+\BOOKMARK [1][-]{section*.6}{Par\341metro}{chapter*.5}% 7
+\BOOKMARK [1][-]{section*.6}{Muestra}{chapter*.5}% 8
+\BOOKMARK [1][-]{section*.6}{Estad\355stico o Estadigrafo}{chapter*.5}% 9
+\BOOKMARK [0][-]{chapter*.7}{Representaci\363n de variables}{}% 10
+\BOOKMARK [1][-]{section*.8}{Tablas de frecuencias}{chapter*.7}% 11
+\BOOKMARK [2][-]{section*.10}{Intervalos de clase}{chapter*.7}% 12
+\BOOKMARK [1][-]{ejemplo.2}{Otros graficos}{chapter*.7}% 13
+\BOOKMARK [0][-]{chapter*.12}{Medidas de tendencia central}{}% 14
+\BOOKMARK [1][-]{section*.13}{Promedio}{chapter*.12}% 15
+\BOOKMARK [1][-]{section*.13}{Mediana}{chapter*.12}% 16
+\BOOKMARK [1][-]{section*.13}{Moda}{chapter*.12}% 17
+\BOOKMARK [1][-]{section*.13}{Percentiles}{chapter*.12}% 18
+\BOOKMARK [2][-]{section*.14}{Datos no agrupados}{section*.13}% 19
+\BOOKMARK [2][-]{section*.14}{Datos agrupados}{section*.13}% 20
+\BOOKMARK [2][-]{section*.14}{BoxPlot}{section*.13}% 21
+\BOOKMARK [0][-]{chapter*.15}{Medidas de dispersi\363n}{}% 22
+\BOOKMARK [1][-]{section*.16}{Rango Intercuartil y Varianza}{chapter*.15}% 23
+\BOOKMARK [1][-]{section*.16}{Desviaci\363n est\341ndar}{chapter*.15}% 24
+\BOOKMARK [1][-]{section*.16}{Coeficiente de variaci\363n}{chapter*.15}% 25
+\BOOKMARK [0][-]{chapter*.17}{Estad\355stica}{}% 26
+\BOOKMARK [1][-]{section*.18}{Definiciones}{chapter*.17}% 27
+\BOOKMARK [2][-]{section*.18}{Experimento aleatorio}{chapter*.17}% 28
+\BOOKMARK [2][-]{section*.18}{Espacio muestral}{chapter*.17}% 29
+\BOOKMARK [2][-]{section*.18}{Evento}{chapter*.17}% 30
+\BOOKMARK [2][-]{section*.18}{Evento uni\363n}{chapter*.17}% 31
+\BOOKMARK [2][-]{section*.18}{Evento intersecci\363n}{chapter*.17}% 32
+\BOOKMARK [2][-]{section*.18}{Evento complemento}{chapter*.17}% 33
+\BOOKMARK [2][-]{section*.18}{Evento diferencia}{chapter*.17}% 34
+\BOOKMARK [2][-]{section*.18}{Evento vac\355o}{chapter*.17}% 35
+\BOOKMARK [2][-]{section*.18}{Diagrama de venn}{chapter*.17}% 36
+\BOOKMARK [1][-]{section*.18}{Algebra de eventos}{chapter*.17}% 37
+\BOOKMARK [1][-]{section*.18}{Resultados importantes}{chapter*.17}% 38
+\BOOKMARK [2][-]{section*.19}{Eventos disjuntos}{section*.18}% 39
+\BOOKMARK [2][-]{section*.19}{Partici\363n}{section*.18}% 40
+\BOOKMARK [1][-]{section*.19}{Calculo de probabilidades}{chapter*.17}% 41
+\BOOKMARK [2][-]{section*.20}{Definici\363n frecuentista}{section*.19}% 42
+\BOOKMARK [2][-]{section*.20}{Definici\363n de Laplace}{section*.19}% 43
+\BOOKMARK [2][-]{section*.20}{Axiomas}{section*.19}% 44
+\BOOKMARK [2][-]{section*.20}{Propiedades}{section*.19}% 45
+\BOOKMARK [2][-]{section*.20}{Propiedades}{section*.19}% 46
+\BOOKMARK [0][-]{chapter*.21}{Probabilidades condicionales}{}% 47
+\BOOKMARK [1][-]{section*.22}{Introducci\363n}{chapter*.21}% 48
+\BOOKMARK [1][-]{section*.23}{Definici\363n}{chapter*.21}% 49
+\BOOKMARK [0][-]{chapter*.24}{Probabilidad total y Teorema de Bayes}{}% 50
+\BOOKMARK [1][-]{section*.25}{Regla multiplicativa}{chapter*.24}% 51
+\BOOKMARK [1][-]{section*.25}{Teorema de la probabilidad total}{chapter*.24}% 52
+\BOOKMARK [1][-]{section*.25}{Teorema de Bayes}{chapter*.24}% 53
+\BOOKMARK [1][-]{section*.25}{Eventos independientes}{chapter*.24}% 54
+\BOOKMARK [0][-]{chapter*.26}{Variable aleatoria}{}% 55
+\BOOKMARK [1][-]{section*.27}{Definici\363n}{chapter*.26}% 56
+\BOOKMARK [1][-]{section*.27}{Tipos de variables aleatorias}{chapter*.26}% 57
+\BOOKMARK [2][-]{section*.28}{Discreta}{section*.27}% 58
+\BOOKMARK [2][-]{section*.28}{Continua}{section*.27}% 59
+\BOOKMARK [1][-]{section*.28}{Funci\363n de densidad de probabilidad}{chapter*.26}% 60
+\BOOKMARK [2][-]{section*.29}{Caso continuo}{section*.28}% 61
+\BOOKMARK [1][-]{section*.29}{Funci\363n de distribuci\363n acumulada}{chapter*.26}% 62
+\BOOKMARK [2][-]{section*.30}{Caso discreto}{section*.29}% 63
+\BOOKMARK [2][-]{section*.30}{Caso continuo}{section*.29}% 64
+\BOOKMARK [1][-]{section*.30}{Esperanza de una variable}{chapter*.26}% 65
+\BOOKMARK [2][-]{section*.31}{Propiedades}{section*.30}% 66
+\BOOKMARK [2][-]{section*.31}{Varianza}{section*.30}% 67
+\BOOKMARK [0][-]{chapter*.32}{Modelos probabil\355sticos}{}% 68
+\BOOKMARK [1][-]{section*.33}{Modelos Bernoulli}{chapter*.32}% 69
+\BOOKMARK [1][-]{section*.33}{Modelos Binomial}{chapter*.32}% 70
+\BOOKMARK [1][-]{section*.33}{Modelo geom\351trico}{chapter*.32}% 71
+\BOOKMARK [1][-]{section*.33}{Modelo Binomial negativa}{chapter*.32}% 72
+\BOOKMARK [1][-]{section*.33}{Modelo hipergeom\351trico}{chapter*.32}% 73
+\BOOKMARK [1][-]{section*.33}{Modelos Poisson}{chapter*.32}% 74
+\BOOKMARK [1][-]{section*.33}{Modelos uniforme}{chapter*.32}% 75
+\BOOKMARK [1][-]{section*.33}{Modelos exponencial}{chapter*.32}% 76
+\BOOKMARK [1][-]{section*.33}{Modelos Normal}{chapter*.32}% 77
