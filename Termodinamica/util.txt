@@ -1,0 +1,152 @@
+
+%Escribir codigo python
+
+\begin{minted}{python}
+\end{minted}
+
+
+\mintinline{python}{}
+
+
+%------------------------------------------------
+
+
+%Escribir como si fuera en la terminal
+\noindent
+    \begin{lstlisting}[style=C,numbers=none]
+    \end{lstlisting}
+
+
+%--------------------------------------------------
+
+
+%2 columnas 
+\begin{figure}[H] 
+\begin{minipage}[b]{0.5\linewidth} 
+\centering
+\begin{minted}{python}
+plt.plot(x, y, marker= 'o', 
+         color='green', 
+         linewidth=0)
+\end{minted}
+\includegraphics[width=9cm]{Graficos/5.jpg}
+\end{minipage}
+\hspace{0.5cm}
+\begin{minipage}[b]{0.5\linewidth}
+\centering
+\includegraphics[width=9cm]{Graficos/6.jpg}
+\end{minipage}
+\end{figure}
+
+%----------------------------------------------------
+
+
+
+
+%pegar imagenes junto a texto 
+\usepackage{wrapfig}
+\begin{wrapfigure}{r}{0.4\linewidth}
+    \centering
+    \includegraphics[width=0.4\textwidth]{ArduinoUnofront.jpg}
+    \caption{Una imagen.}{{\footnotesize Fuente: Creación no propia}}
+    \label{fig:myfig}
+\end{wrapfigure}
+
+
+%-----------------------------------------------------
+
+
+
+%links 
+\href{}{aquí}
+
+%----------------------------------------------------
+
+
+%FOTOS O IMAGENES
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=]{}
+\end{figure}
+
+%------------------------------------------------------
+
+\chapter*{}
+\addcontentsline{toc}{chapter}{}
+
+
+\section*{}
+\addcontentsline{toc}{section}{}
+
+
+\subsection*{}
+\addcontentsline{toc}{subsection}{}
+
+%---------------------------------------------------------
+
+
+\todo[inline,backgroundcolor = green!10]{}
+
+%---------------------------------------------------------
+
+
+\vspace{5px}
+
+%-----------------------------------------------------------
+
+
+\begin{itemize}
+\setlength\itemsep{0.001cm}
+\item{}
+\end{itemize}
+
+
+%-----------------------------------------------------------
+REFERENCIAS
+
+``I always thought something was fundamentally wrong with the universe'' \citep{adams1995hitchhiker}
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+EN UN ARCHIVO LLAMADO "references.bib" 
+@book{adams1995hitchhiker,
+  title={The Hitchhiker's Guide to the Galaxy},
+  author={Adams, D.},
+  isbn={9781417642595},
+  url={http://books.google.com/books?id=W-xMPgAACAAJ},
+  year={1995},
+  publisher={San Val}
+}
+
+%----------------------------------------------
+En el preambulo: 
+\newtheorem{ejemplo}{Ejemplo}
+\newtheorem{mydef}{Definition}
+\newtheorem{teo}{Teorema}
+
+En el cuerpo: 
+
+\begin{mydef}
+
+\end{mydef}
+
+\begin{ejemplo}
+\addcontentsline{toc}{section}{Ejemplo }
+
+\end{ejemplo}
+
+\begin{teo}[]
+
+\end{teo}
+
+%---------------------------------------
+\begin{equation*}
+\bar{X}= \left\{ \begin{array}{lc}
+             \frac{1}{n}\sum_{i=1}^{n}x_i  & \text{Datos no tabulados} \\
+             \\ \frac{1}{n}\sum_{j=1}^{k}n_j x_j  & \text{Datos tabulados} 
+             \end{array}
+   \right.
+\end{equation*}
+

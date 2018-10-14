@@ -1,0 +1,70 @@
+\BOOKMARK [0][-]{chapter*.2}{Introducci\363n}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{Conceptos Fundamentales}{}% 2
+\BOOKMARK [1][-]{section*.4}{Sistema}{chapter*.3}% 3
+\BOOKMARK [1][-]{section*.4}{L\355mite del sistema}{chapter*.3}% 4
+\BOOKMARK [1][-]{section*.4}{Universo}{chapter*.3}% 5
+\BOOKMARK [1][-]{section*.4}{Tipos de Sistemas}{chapter*.3}% 6
+\BOOKMARK [1][-]{section*.4}{Fluido}{chapter*.3}% 7
+\BOOKMARK [1][-]{section*.4}{Densidad\(\)}{chapter*.3}% 8
+\BOOKMARK [1][-]{section*.4}{Presi\363n}{chapter*.3}% 9
+\BOOKMARK [0][-]{chapter*.5}{Estados de un sistema}{}% 10
+\BOOKMARK [1][-]{section*.6}{Coordenadas Termodin\341micas}{chapter*.5}% 11
+\BOOKMARK [1][-]{section*.6}{Sistema Termodin\341mico}{chapter*.5}% 12
+\BOOKMARK [1][-]{section*.6}{Estado de un sistema}{chapter*.5}% 13
+\BOOKMARK [1][-]{section*.6}{Pared Adiab\341tica}{chapter*.5}% 14
+\BOOKMARK [1][-]{section*.6}{Pared Diat\351rmica}{chapter*.5}% 15
+\BOOKMARK [0][-]{chapter*.7}{Equilibrio t\351rmico y temperatura}{}% 16
+\BOOKMARK [1][-]{section*.8}{Equilibrio t\351rmico}{chapter*.7}% 17
+\BOOKMARK [2][-]{section*.9}{Ley cero de la Termodin\341mica}{section*.8}% 18
+\BOOKMARK [1][-]{section*.10}{Temperatura}{chapter*.7}% 19
+\BOOKMARK [1][-]{section*.10}{Procesos}{chapter*.7}% 20
+\BOOKMARK [2][-]{section*.11}{Proceso cuasiest\341tico}{section*.10}% 21
+\BOOKMARK [2][-]{section*.11}{Proceso no cuasiest\341tico}{section*.10}% 22
+\BOOKMARK [2][-]{section*.11}{Proceso isoc\363rico}{section*.10}% 23
+\BOOKMARK [2][-]{section*.11}{Proceso isob\341rico}{section*.10}% 24
+\BOOKMARK [2][-]{section*.11}{Proceso isot\351rmico}{section*.10}% 25
+\BOOKMARK [1][-]{section*.11}{Variaci\363n de la presi\363n con la profundidad}{chapter*.7}% 26
+\BOOKMARK [0][-]{chapter*.12}{Ecuaci\363n de Estado \(EdE\)}{}% 27
+\BOOKMARK [1][-]{section*.13}{EdE de un Gas Ideal}{chapter*.12}% 28
+\BOOKMARK [2][-]{section*.13}{Formulaci\363n de las leyes de los gases ideales}{chapter*.12}% 29
+\BOOKMARK [2][-]{section*.13}{Las hermosas ecuaciones}{chapter*.12}% 30
+\BOOKMARK [2][-]{section*.13}{Superficie PVT para un gas ideal}{chapter*.12}% 31
+\BOOKMARK [1][-]{section*.13}{EdE de gases reales}{chapter*.12}% 32
+\BOOKMARK [2][-]{section*.14}{EdE de van der Waals}{section*.13}% 33
+\BOOKMARK [1][-]{section*.15}{Derivadas parciales, dilataci\363n y compresibilidad}{chapter*.12}% 34
+\BOOKMARK [1][-]{section*.15}{Coeficiente de dilataci\363n c\372bica}{chapter*.12}% 35
+\BOOKMARK [2][-]{section*.16}{Coeficiente de dilataci\363n media}{section*.15}% 36
+\BOOKMARK [1][-]{section*.16}{Compresibilidad isoterma}{chapter*.12}% 37
+\BOOKMARK [2][-]{section*.17}{Compresibilidad media}{section*.16}% 38
+\BOOKMARK [0][-]{chapter*.18}{Trabajo\(W\)}{}% 39
+\BOOKMARK [1][-]{section*.19}{Expansi\363n Cuasiest\341tica}{chapter*.18}% 40
+\BOOKMARK [1][-]{section*.19}{Proceso reversble finito}{chapter*.18}% 41
+\BOOKMARK [1][-]{section*.19}{Procesos reversibles}{chapter*.18}% 42
+\BOOKMARK [2][-]{section*.20}{Proceso isoc\363rico}{section*.19}% 43
+\BOOKMARK [2][-]{section*.20}{Proceso isob\341rico}{section*.19}% 44
+\BOOKMARK [2][-]{section*.20}{Proceso isot\351rmico}{section*.19}% 45
+\BOOKMARK [0][-]{chapter*.21}{Primer principio de la termodin\341mica}{}% 46
+\BOOKMARK [1][-]{section*.22}{Experimentos de Joule}{chapter*.21}% 47
+\BOOKMARK [1][-]{section*.22}{Generalizaci\363n de forma emp\355rica}{chapter*.21}% 48
+\BOOKMARK [1][-]{section*.23}{Calor}{chapter*.21}% 49
+\BOOKMARK [2][-]{section*.24}{Definicion operacional de calor}{section*.23}% 50
+\BOOKMARK [2][-]{section*.24}{Capacidad calor\355fica \(C\)}{section*.23}% 51
+\BOOKMARK [2][-]{section*.24}{Capacidad calor\355fica a Presi\363n constante}{section*.23}% 52
+\BOOKMARK [2][-]{section*.24}{Capacidad calor\355fica a Volumen constante}{section*.23}% 53
+\BOOKMARK [2][-]{section*.24}{Calor espec\355fico \(c\)}{section*.23}% 54
+\BOOKMARK [1][-]{section*.24}{Energia interna de un gas ideal}{chapter*.21}% 55
+\BOOKMARK [1][-]{section*.25}{Calor espec\355fico de un gas ideal}{chapter*.21}% 56
+\BOOKMARK [0][-]{chapter*.26}{Proceso adiab\341tico reversible}{}% 57
+\BOOKMARK [1][-]{section*.27}{Proceso adiab\341tico}{chapter*.26}% 58
+\BOOKMARK [2][-]{section*.28}{Gas ideal}{chapter*.26}% 59
+\BOOKMARK [2][-]{section*.29}{Trabajo realizado en expansi\363n adiab\341tica reversible con gas ideal}{chapter*.26}% 60
+\BOOKMARK [1][-]{section*.30}{Valores para cp y cv para gases \(T \040Tambiente}{chapter*.26}% 61
+\BOOKMARK [2][-]{section*.31}{Gases monoat\363micos}{section*.30}% 62
+\BOOKMARK [2][-]{section*.31}{Gases diat\363micos}{section*.30}% 63
+\BOOKMARK [2][-]{section*.31}{Gases poliat\363micos}{section*.30}% 64
+\BOOKMARK [0][-]{chapter*.32}{Ciclo de Carnot}{}% 65
+\BOOKMARK [1][-]{section*.33}{Diagrama P-V de un ciclo de Carnot}{chapter*.32}% 66
+\BOOKMARK [2][-]{section*.33}{Proceso a-b \040isot\351rmico}{chapter*.32}% 67
+\BOOKMARK [2][-]{section*.33}{Proceso b-c \040Adiab\341tico}{chapter*.32}% 68
+\BOOKMARK [2][-]{section*.33}{Proceso c-d \040Isot\351rmico}{chapter*.32}% 69
+\BOOKMARK [2][-]{section*.33}{Proceso d-a \040adiab\341tico}{chapter*.32}% 70
